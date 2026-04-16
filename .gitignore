@@ -4,6 +4,7 @@ scripts/contributors.js
 .idea/
 .vs
 .env
+temp_auto_push.bat
 
 *.rsuser
 *.suo
@@ -11,3 +12,5 @@ scripts/contributors.js
 *.userosscache
 *.sln.docstates
 *.swp
+.gitignore
+branch_structure.json
